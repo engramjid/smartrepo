@@ -1,1 +1,3 @@
 this is changes in 4th.txt for hard reset demo
+
+change is here for demo fast forward merge
